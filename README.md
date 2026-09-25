@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shiv Gopal Dixit Advocate & RC Legal Associate — Website
 
 A single-page, self-contained static website. All HTML, CSS and JavaScript
@@ -39,3 +40,7 @@ rc-legal-associate-website/
 3. Deploy — no configuration needed since it's a single static HTML file.
 
 No environment variables, build steps, or dependencies are required.
+=======
+# shiv-gopal-dixit-website
+Shiv Gopal Dixit Advocate &amp; RC Legal Associate
+>>>>>>> fd91eb2c52bf0a941d41e66c1d76160c178eda51
